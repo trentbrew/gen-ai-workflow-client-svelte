@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "label": "Workflows",
+      "icon": "Video",
+      "items": [
+        {
+          "title": "TikTok Video",
+          "url": "/?workflow=tiktok-video-generation",
+          "icon": "Clapperboard"
+        }
+      ]
+    },
+    {
+      "label": "Tools",
+      "icon": "FileText",
+      "items": [
+        {
+          "title": "Audio Understanding",
+          "url": "/?workflow=audio-understanding",
+          "icon": "AudioWaveform"
+        },
+        {
+          "title": "Image Understanding",
+          "url": "/?workflow=image-understanding",
+          "icon": "Frame"
+        },
+        {
+          "title": "Video Understanding",
+          "url": "/?workflow=video-understanding",
+          "icon": "Video"
+        },
+        {
+          "title": "Document Understanding",
+          "url": "/?workflow=document-understanding",
+          "icon": "FileText"
+        }
+      ]
+    },
+    {
+      "label": "Actions",
+      "icon": "Settings",
+      "items": [
+        {
+          "title": "Orchestration",
+          "url": "/?workflow=branching-content",
+          "icon": "GitBranch"
+        },
+        {
+          "title": "Function Calling",
+          "url": "/?workflow=function-calling",
+          "icon": "Command"
+        },
+        {
+          "title": "Code Execution",
+          "url": "/?workflow=code-execution",
+          "icon": "Code"
+        }
+      ]
+    }
+  ]
+}
